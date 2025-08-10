@@ -6,8 +6,7 @@ sites:
   - name: kmj.wtf
     url: https://kmj.wtf
   - name: plex server
-    url: $PLEX_URL/identity
-    port: 32400
+    url: $PLEX_URL
     __dangerous__insecure: true
     icon: https://app.plex.tv/desktop/favicon.ico
 
