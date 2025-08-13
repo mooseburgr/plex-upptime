@@ -22,17 +22,20 @@
     "url": "$PLEX_URL",
     "icon": "https://app.plex.tv/desktop/favicon.ico",
     "slug": "plex-server",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 178,
-    "timeDay": 197,
-    "timeWeek": 178,
-    "timeMonth": 178,
-    "timeYear": 178,
-    "dailyMinutesDown": {}
+    "status": "up",
+    "uptime": "97.70%",
+    "uptimeDay": "94.62%",
+    "uptimeWeek": "97.70%",
+    "uptimeMonth": "97.70%",
+    "uptimeYear": "97.70%",
+    "time": 169,
+    "timeDay": 171,
+    "timeWeek": 169,
+    "timeMonth": 169,
+    "timeYear": 169,
+    "dailyMinutesDown": {
+      "2025-08-13": 77,
+      "2025-08-10": 16
+    }
   }
 ]
