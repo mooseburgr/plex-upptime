@@ -4,7 +4,7 @@
     "url": "https://kmj.wtf",
     "icon": "https://icons.duckduckgo.com/ip3/kmj.wtf.ico",
     "slug": "kmj-wtf",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -23,18 +23,18 @@
     "icon": "https://app.plex.tv/desktop/favicon.ico",
     "slug": "plex-server",
     "status": "up",
-    "uptime": "97.38%",
-    "uptimeDay": "93.65%",
-    "uptimeWeek": "97.38%",
-    "uptimeMonth": "97.38%",
-    "uptimeYear": "97.38%",
+    "uptime": "97.89%",
+    "uptimeDay": "94.62%",
+    "uptimeWeek": "97.89%",
+    "uptimeMonth": "97.89%",
+    "uptimeYear": "97.89%",
     "time": 180,
     "timeDay": 191,
     "timeWeek": 180,
     "timeMonth": 180,
     "timeYear": 180,
     "dailyMinutesDown": {
-      "2025-08-13": 91,
+      "2025-08-13": 77,
       "2025-08-10": 16
     }
   }
