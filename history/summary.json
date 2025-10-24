@@ -4,7 +4,7 @@
     "url": "$PLEX_URL",
     "icon": "https://app.plex.tv/desktop/favicon.ico",
     "slug": "plex-server",
-    "status": "up",
+    "status": "down",
     "uptime": "93.23%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "68.91%",
@@ -16,6 +16,7 @@
     "timeMonth": 486,
     "timeYear": 531,
     "dailyMinutesDown": {
+      "2025-10-24": 0,
       "2025-10-21": 146,
       "2025-10-20": 89,
       "2025-10-19": 1311,
