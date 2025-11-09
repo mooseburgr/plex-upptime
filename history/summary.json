@@ -4,7 +4,7 @@
     "url": "$PLEX_URL",
     "icon": "https://app.plex.tv/desktop/favicon.ico",
     "slug": "plex-server",
-    "status": "up",
+    "status": "down",
     "uptime": "92.02%",
     "uptimeDay": "73.36%",
     "uptimeWeek": "76.82%",
