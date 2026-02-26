@@ -5,18 +5,19 @@
     "icon": "https://app.plex.tv/desktop/favicon.ico",
     "slug": "plex-server",
     "status": "down",
-    "uptime": "89.22%",
-    "uptimeDay": "89.08%",
+    "uptime": "89.23%",
+    "uptimeDay": "73.56%",
     "uptimeWeek": "62.15%",
-    "uptimeMonth": "75.32%",
-    "uptimeYear": "89.22%",
+    "uptimeMonth": "74.81%",
+    "uptimeYear": "89.23%",
     "time": 502,
-    "timeDay": 976,
+    "timeDay": 1189,
     "timeWeek": 895,
-    "timeMonth": 530,
+    "timeMonth": 540,
     "timeYear": 502,
     "dailyMinutesDown": {
-      "2026-02-25": 157,
+      "2026-02-26": 11,
+      "2026-02-25": 369,
       "2026-02-24": 281,
       "2026-02-21": 285,
       "2026-02-20": 1440,
@@ -96,8 +97,7 @@
       "2025-09-13": 129,
       "2025-09-11": 205,
       "2025-09-03": 197,
-      "2025-09-02": 296,
-      "2025-09-01": 188
+      "2025-09-02": 261
     }
   }
 ]
